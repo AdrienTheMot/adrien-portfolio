@@ -1,8 +1,8 @@
-import Hero from "/components/Hero";
-import Biography from "/components/Biography";
-import FeaturedProjects from "/components/FeaturedProjects";
-import ContactMe from "/components/ContactMe";
-import Links from "/components/Links";
+import Hero from "../components/Hero";
+import Biography from "../components/Biography";
+import FeaturedProjects from "../components/FeaturedProjects";
+import ContactMe from "../components/ContactMe";
+import Links from "../components/Links";
 
 export default function Home() {
   return (
