@@ -15,7 +15,9 @@ export default function Biography() {
           About Me
         </h2>
         <p className="text-zinc-300 leading-relaxed text-lg text-center">
-          I’m Adrien Motaharian, a Math and Computer Science scientist at Villanova University with a passion for algorithms, data structures, and building interactive applications. I enjoy designing intuitive software, exploring AI and machine learning projects, and creating visually engaging experiences. Outside of academics, I’m a heavy metal fan and guitarist, and I love diving into math and computer science problems just for fun, whether that’s breaking down algorithms, experimenting with new ideas, or seeing how far I can push a concept. With experience in React, Python, and Java, I love turning complex problems into elegant, functional solutions.
+          I am Adrien Motaharian, a Math and Computer Science student at Villanova University with a passion for algorithms, data structures, and building interactive applications. I enjoy designing intuitive software, exploring AI and machine learning projects, and creating visually engaging experiences. With experience in React, Python, and Java, I love turning complex problems into elegant, functional solutions.
+
+          Outside of academics, I am a competitive ski racer, a heavy metal fan and guitarist, and I enjoy staying active through weightlifting and playing soccer for fun. I also love diving into math and computer science problems just for the challenge,whether that means breaking down algorithms, experimenting with new ideas, or pushing a concept as far as it can go.
         </p>
       </motion.div>
     </section>

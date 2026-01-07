@@ -34,7 +34,7 @@ export default function Hero() {
           Adrien <span className="text-cyan-400">Motaharian</span>
         </h1>
         <p className="mt-4 text-xl md:text-2xl text-zinc-300 max-w-lg drop-shadow-md">
-          Math + Computer Science Scientist at Villanova University.
+          Math + Computer Scientist at Villanova University.
         </p>
       </motion.div>
     </section>
