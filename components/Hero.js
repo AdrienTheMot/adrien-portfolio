@@ -17,7 +17,7 @@ export default function Hero() {
         className="relative w-40 h-40 md:w-60 md:h-60 rounded-full overflow-hidden border-4 border-cyan-400 shadow-[0_0_20px_cyan]"
       >
         <img
-          src="https://media.licdn.com/dms/image/v2/D4E03AQHwCcsWz_CFjA/profile-displayphoto-shrink_800_800/B4EZR18myDGgAc-/0/1737145609652?e=1769040000&v=beta&t=cID2CwLiAlIH9pwbTEhgVtqQNwYMsBD-UqvOcn-PEds" // <- replace with your picture
+          src="https://media.licdn.com/dms/image/v2/D4E03AQHwCcsWz_CFjA/profile-displayphoto-shrink_100_100/B4EZR18myDGgAU-/0/1737145609652?e=1771459200&v=beta&t=VTYpCAvneogImx7qz8-9uMdwOVFvvqBXvpBDmca336c" // <- replace with your picture
           alt="Adrien Motaharian"
           className="w-full h-full object-cover"
         />
