@@ -25,7 +25,6 @@ const projects = [
     title: "Risk Scoring Model",
     description: "Machine learning pipeline for credit default prediction.",
     tech: ["Python", "scikit-learn", "Pandas", "Jupyter"],
-    demoUrl: "https://hub.gesis.mybinder.org/user/adrienthemot-risk-scoring-model-68rb6k7l/lab",
     githubUrl: "https://github.com/AdrienTheMot/risk-scoring-model",
   },
   {
