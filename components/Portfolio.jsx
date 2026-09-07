@@ -6,6 +6,13 @@ import { motion, useScroll, useTransform, AnimatePresence } from "framer-motion"
 
 const projects = [
   {
+    slug: "distributed-communication-system",
+    title: "Distributed Communication System",
+    description: "A Python client-server system using multi-threading and network sockets to handle concurrent users, send data reliably, and sync messages in real time.",
+    tech: ["Python", "Sockets", "Concurrency", "Networking"],
+    githubUrl: "https://github.com/MatthewDiGiovanni24/Distributed-Communication-System",
+  },
+  {
     slug: "algorithm-visualizer",
     title: "Algorithm Visualizer",
     description: "Interactive visualization of sorting algorithms and BST operations.",
