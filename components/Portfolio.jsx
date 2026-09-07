@@ -10,7 +10,7 @@ const projects = [
     title: "Algorithm Visualizer",
     description: "Interactive visualization of sorting algorithms and BST operations.",
     tech: ["React", "TypeScript", "Tailwind"],
-    demoUrl: "https://algorithm-visualizer-6sfbw5k6j-adrien-motaharians-projects.vercel.app/",
+    demoUrl: "https://algorithm-visualizer-peach-delta.vercel.app/",
     githubUrl: "https://github.com/AdrienTheMot/algorithm-visualizer",
   },
   {
